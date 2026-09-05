@@ -25,7 +25,7 @@ End-to-end ML project predicting NSW residential property prices using 1.88M rea
 **Tech:** Python, scikit-learn, XGBoost, Random Forest, SHAP, pandas
 
 ### 👕 [Uniqlo Sydney CBD Sales Forecasting](https://github.com/nancy-vn-le/uniqlo-sales-forecasting)
-Three-layer sales forecasting system across 21 product divisions: base forecast (XGBoost, ARIMA, Prophet with SHAP-attributed drivers), uncertainty quantification, and self-monitoring bias detection. Deployed as a 4-page interactive Streamlit dashboard.  
+Three-layer sales forecasting system across 21 product divisions: base forecast (XGBoost, ARIMA, Prophet with SHAP-attributed drivers), uncertainty quantification, and self-monitoring bias detection. Built on two years of synthetic transaction data calibrated to realistic Australian retail trading patterns. Deployed as a 4-page interactive Streamlit dashboard.  
 **Tech:** Python, XGBoost, ARIMA, Prophet, SHAP, SQLite, Streamlit
 
 ### 🏉 NRLW Attacking Success Modelling (DATA3001 Capstone)
