@@ -28,6 +28,10 @@ End-to-end ML project predicting NSW residential property prices using 1.88M rea
 Three-layer sales forecasting system across 21 product divisions: base forecast (XGBoost, ARIMA, Prophet with SHAP-attributed drivers), uncertainty quantification, and self-monitoring bias detection. Deployed as a 4-page interactive Streamlit dashboard.  
 **Tech:** Python, XGBoost, ARIMA, Prophet, SHAP, SQLite, Streamlit
 
+### 🏉 NRLW Attacking Success Modelling (DATA3001 Capstone)
+Group modelling project for UNSW's Data Science capstone, built on a set-level NRLW dataset aggregating 2.86M raw match events (2018-2025). Engineered 8 features (passing, tackle breaks, offloads, score margin, era) and compared four models predicting attacking success. Found passing volume alone accounted for over 80% of predictive power, far outweighing game context. Achieved the top result in the cohort and was the only group invited to present findings directly to NRL stakeholders at their office. *Dataset is not publicly shareable under course data-use terms.*  
+**Tech:** Python, pandas, scikit-learn, statsmodels
+
 ## Education and Recognition
 
 - **Bachelor of Data Science and Decisions**, UNSW Sydney  
