@@ -16,22 +16,17 @@ I am a recent UNSW graduate with a quantitative data science background and more
 
 ## Featured Projects
 
-### 🏉 NRLW Gameplay Analysis
-End-to-end data science capstone project analysing gameplay patterns and trends in women's rugby league.  
-**Focus:** data wrangling, exploratory analysis, statistical modelling, visualisation, and stakeholder presentation.  
-**Tech:** Python, pandas, scikit-learn, matplotlib
+### ⚡ [NSW Electricity Demand Forecasting](https://github.com/nancy-vn-le/electricity-demand-forecasting)
+Six forecasting models evaluated on seven years of real AEMO NSW grid demand data (2019-2025). Best result: XGBoost with weather data at 6.8% MAPE, a 58% improvement over a naive baseline. Includes an interactive Streamlit dashboard.  
+**Tech:** Python, XGBoost, ARIMA, SARIMA, Holt-Winters, statsmodels
 
-### 📈 Business Forecasting Models
-Time-series forecasting project comparing ARIMA and exponential smoothing models, with model evaluation using RMSE and MAPE.  
-**Tech:** R, time-series analysis, ARIMA, exponential smoothing
+### 🏠 [NSW Property Price Prediction](https://github.com/nancy-vn-le/nsw-property-price-prediction)
+End-to-end ML project predicting NSW residential property prices using 1.88M real NSW Land Registry sales records. Random Forest achieved the best R² (0.59), with SHAP used to interpret the key price drivers. Deployed as a Streamlit price estimator app.  
+**Tech:** Python, scikit-learn, XGBoost, Random Forest, SHAP, pandas
 
-### 🗄️ PostgreSQL Database Design and Analytics
-Relational database project involving schema design, advanced SQL queries, window functions, and query optimisation.  
-**Tech:** PostgreSQL, SQL, database design
-
-### 📊 Econometrics Analysis
-Applied OLS, instrumental-variable regression, and panel-data models to real-world economic datasets and interpreted causal effects for business decisions.  
-**Tech:** R, Stata, econometrics
+### 👕 [Uniqlo Sydney CBD Sales Forecasting](https://github.com/nancy-vn-le/uniqlo-sales-forecasting)
+Three-layer sales forecasting system across 21 product divisions: base forecast (XGBoost, ARIMA, Prophet with SHAP-attributed drivers), uncertainty quantification, and self-monitoring bias detection. Deployed as a 4-page interactive Streamlit dashboard.  
+**Tech:** Python, XGBoost, ARIMA, Prophet, SHAP, SQLite, Streamlit
 
 ## Education and Recognition
 
@@ -42,5 +37,6 @@ Applied OLS, instrumental-variable regression, and panel-data models to real-wor
 
 ## Connect with Me
 
+- [Portfolio](https://vietnganle.com)
 - [LinkedIn](https://www.linkedin.com/in/viet-ngan-le)
 - [GitHub](https://github.com/nancy-vn-le)
